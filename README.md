@@ -23,7 +23,7 @@
 
 
 # Screenshot:
-(Image/Image.png)
+(./Image/Image.png)
 
 
 
