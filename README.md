@@ -33,3 +33,4 @@
 - [Olarila](https://www.olarila.com/) For great guides and offline installer.
 - [Dortania](https://dortania.github.io/OpenCore-Install-Guide) For great and detailed guides.
 - [VNOHackintosh](https://facebook.com/VNOHackintosh) Support group for installation and post installation.
+- [Đỗ Ân](https://www.facebook.com/ando2001hn) Thank you for trusting to use our services.
