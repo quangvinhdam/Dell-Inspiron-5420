@@ -1,4 +1,4 @@
-# Dell-System-Inspiron-5420 (Mojave)
+# Dell-Inspiron-5420 (Mojave)
 ## Specifications:
 - **CPU:** i5-3210M
 - **GPU:** 	Intel(R) HD Graphics 4000 (2112 MB)
